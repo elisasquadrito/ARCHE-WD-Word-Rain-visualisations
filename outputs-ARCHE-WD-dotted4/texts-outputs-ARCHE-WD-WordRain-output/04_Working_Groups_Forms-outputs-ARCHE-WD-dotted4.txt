@@ -1,0 +1,300 @@
+heritage	178.0	178	29.296
+cultural	105.0	105	17.281
+cultural heritage	89.0	89	14.648
+climate	44.0	44	7.242
+research	39.0	39	6.419
+change	39.0	39	6.419
+impact	32.0	32	5.267
+european	32.0	32	5.267
+new	28.0	28	4.608
+knowledge	25.0	25	4.115
+climate change	23.0	23	3.785
+focus	22.016583923655773	18	2.962
+sria	21.0	21	3.456
+important	21.0	21	3.456
+digital	21.0	21	3.456
+resilience	20.0	20	3.292
+megatrend	19.64073310895788	13	2.140
+sustainable	19.0	19	3.127
+future	19.0	19	3.127
+changes	19.0	19	3.127
+society	18.0	18	2.962
+priority	17.0	17	2.798
+innovation	17.0	17	2.798
+changing	17.0	17	2.798
+need	16.0	16	2.633
+gender	16.0	16	2.633
+europe	16.0	16	2.633
+conservation	16.0	16	2.633
+priority area	15.108256237659907	10	1.646
+participation	15.108256237659907	10	1.646
+linkages	15.108256237659907	10	1.646
+data	15.0	15	2.469
+adaptation	15.0	15	2.469
+societal	14.0	14	2.304
+role	14.0	14	2.304
+political	14.0	14	2.304
+policy	14.0	14	2.304
+challenges	14.0	14	2.304
+approach	14.0	14	2.304
+policy linkages	13.414035123119085	7	1.152
+use	13.0	13	2.140
+opportunities	13.0	13	2.140
+governance	13.0	13	2.140
+words	12.231435513142097	10	1.646
+identified	12.231435513142097	10	1.646
+key	12.0	12	1.975
+including	12.0	12	1.975
+development	12.0	12	1.975
+culture	12.0	12	1.975
+communities	12.0	12	1.975
+skills	11.0	11	1.810
+resource	11.0	11	1.810
+objectives	11.0	11	1.810
+management	11.0	11	1.810
+jpi	11.0	11	1.810
+holistic	11.0	11	1.810
+economic	11.0	11	1.810
+develop	11.0	11	1.810
+based	11.0	11	1.810
+area	11.0	11	1.810
+ai	11.0	11	1.810
+political drivers	10.575779366361935	7	1.152
+values	10.0	10	1.646
+traditional	10.0	10	1.646
+solutions	10.0	10	1.646
+related	10.0	10	1.646
+inclusive	10.0	10	1.646
+cooperation	10.0	10	1.646
+sector	9.785148410513678	8	1.317
+sria objectives	9.581453659370776	5	0.823
+hardly	9.581453659370776	5	0.823
+ccsi	9.581453659370776	5	0.823
+top suggested	9.064953742595945	6	0.987
+term	9.0	9	1.481
+strategic	9.0	9	1.481
+resilient	9.0	9	1.481
+natural	9.0	9	1.481
+may	9.0	9	1.481
+global	9.0	9	1.481
+jpi sria	8.562004859199469	7	1.152
+heritage sector	8.562004859199469	7	1.152
+relevant	8.0	8	1.317
+recognised	8.0	8	1.317
+practices	8.0	8	1.317
+participatory	8.0	8	1.317
+loss	8.0	8	1.317
+increasing	8.0	8	1.317
+funding	8.0	8	1.317
+environmental	8.0	8	1.317
+environment	8.0	8	1.317
+economy	8.0	8	1.317
+creative	8.0	8	1.317
+context	8.0	8	1.317
+access	8.0	8	1.317
+interviewees	7.66516292749662	4	0.658
+fit	7.66516292749662	4	0.658
+eit	7.554128118829953	5	0.823
+think	7.338861307885258	6	0.987
+suggested	7.338861307885258	6	0.987
+given	7.338861307885258	6	0.987
+evaluation	7.338861307885258	6	0.987
+citizen	7.338861307885258	6	0.987
+adaptive	7.338861307885258	6	0.987
+space	7.0	7	1.152
+responses	7.0	7	1.152
+potential	7.0	7	1.152
+positive	7.0	7	1.152
+policies	7.0	7	1.152
+models	7.0	7	1.152
+migration	7.0	7	1.152
+long term	7.0	7	1.152
+long	7.0	7	1.152
+initiatives	7.0	7	1.152
+inclusion	7.0	7	1.152
+impact cultural	7.0	7	1.152
+heritage research	7.0	7	1.152
+exchange	7.0	7	1.152
+drivers	7.0	7	1.152
+actions	7.0	7	1.152
+action	7.0	7	1.152
+understanding	6.1157177565710485	5	0.823
+tourism	6.1157177565710485	5	0.823
+partnerships	6.1157177565710485	5	0.823
+make	6.1157177565710485	5	0.823
+intergenerational	6.1157177565710485	5	0.823
+inequalities	6.1157177565710485	5	0.823
+heritage values	6.1157177565710485	5	0.823
+heritage climate	6.1157177565710485	5	0.823
+greater	6.1157177565710485	5	0.823
+considered	6.1157177565710485	5	0.823
+climate environmental	6.1157177565710485	5	0.823
+citizen science	6.1157177565710485	5	0.823
+central	6.1157177565710485	5	0.823
+balance	6.1157177565710485	5	0.823
+wg	6.043302495063963	4	0.658
+spatial	6.043302495063963	4	0.658
+societal changes	6.043302495063963	4	0.658
+sky	6.043302495063963	4	0.658
+mainly	6.043302495063963	4	0.658
+key words	6.043302495063963	4	0.658
+info	6.043302495063963	4	0.658
+heritage innovation	6.043302495063963	4	0.658
+environmental change	6.043302495063963	4	0.658
+eit culture	6.043302495063963	4	0.658
+culture creativity	6.043302495063963	4	0.658
+circular economy	6.043302495063963	4	0.658
+blue sky	6.043302495063963	4	0.658
+would	6.0	6	0.987
+vision	6.0	6	0.987
+used	6.0	6	0.987
+top	6.0	6	0.987
+societal challenges	6.0	6	0.987
+social	6.0	6	0.987
+science	6.0	6	0.987
+priorities	6.0	6	0.987
+partnership	6.0	6	0.987
+participants	6.0	6	0.987
+part	6.0	6	0.987
+mission	6.0	6	0.987
+might	6.0	6	0.987
+local	6.0	6	0.987
+knowledge exchange	6.0	6	0.987
+include	6.0	6	0.987
+funded	6.0	6	0.987
+experience	6.0	6	0.987
+enhance	6.0	6	0.987
+effects	6.0	6	0.987
+driver	6.0	6	0.987
+diverse	6.0	6	0.987
+different	6.0	6	0.987
+creation	6.0	6	0.987
+contribute	6.0	6	0.987
+concepts	6.0	6	0.987
+bottom	6.0	6	0.987
+awareness	6.0	6	0.987
+areas	6.0	6	0.987
+analysis	6.0	6	0.987
+address	6.0	6	0.987
+visioning resilience	5.748872195622465	3	0.494
+vision words	5.748872195622465	3	0.494
+use sdgs	5.748872195622465	3	0.494
+use holistic	5.748872195622465	3	0.494
+transversal sria	5.748872195622465	3	0.494
+time machine	5.748872195622465	3	0.494
+think important	5.748872195622465	3	0.494
+terms gender	5.748872195622465	3	0.494
+teams hardly	5.748872195622465	3	0.494
+suggested vision	5.748872195622465	3	0.494
+suggested mission	5.748872195622465	3	0.494
+subject gender	5.748872195622465	3	0.494
+studies priorities	5.748872195622465	3	0.494
+structures initiatives	5.748872195622465	3	0.494
+society concise	5.748872195622465	3	0.494
+show gender	5.748872195622465	3	0.494
+sdgs framework	5.748872195622465	3	0.494
+results show	5.748872195622465	3	0.494
+responses limited	5.748872195622465	3	0.494
+resilience identified	5.748872195622465	3	0.494
+research teams	5.748872195622465	3	0.494
+research subject	5.748872195622465	3	0.494
+reflection heritage	5.748872195622465	3	0.494
+rarely adopted	5.748872195622465	3	0.494
+projects gender	5.748872195622465	3	0.494
+perspectives rarely	5.748872195622465	3	0.494
+mission words	5.748872195622465	3	0.494
+mission based	5.748872195622465	3	0.494
+miss	5.748872195622465	3	0.494
+might transversal	5.748872195622465	3	0.494
+might think	5.748872195622465	3	0.494
+mainly addressed	5.748872195622465	3	0.494
+linkages european	5.748872195622465	3	0.494
+limited cultural	5.748872195622465	3	0.494
+key concepts	5.748872195622465	3	0.494
+innovation digital	5.748872195622465	3	0.494
+initiatives evaluation	5.748872195622465	3	0.494
+info might	5.748872195622465	3	0.494
+important might	5.748872195622465	3	0.494
+implications undertaking	5.748872195622465	3	0.494
+identified focus	5.748872195622465	3	0.494
+hardly funded	5.748872195622465	3	0.494
+governance top	5.748872195622465	3	0.494
+governance structures	5.748872195622465	3	0.494
+global un	5.748872195622465	3	0.494
+gender research	5.748872195622465	3	0.494
+gender perspectives	5.748872195622465	3	0.494
+gender balance	5.748872195622465	3	0.494
+framework include	5.748872195622465	3	0.494
+focus visioning	5.748872195622465	3	0.494
+focus vision	5.748872195622465	3	0.494
+evaluation committees	5.748872195622465	3	0.494
+equality mainly	5.748872195622465	3	0.494
+document provide	5.748872195622465	3	0.494
+digital pathways	5.748872195622465	3	0.494
+developed cultural	5.748872195622465	3	0.494
+created continue	5.748872195622465	3	0.494
+continue use	5.748872195622465	3	0.494
+conservation sustainable	5.748872195622465	3	0.494
+committees funded	5.748872195622465	3	0.494
+committees	5.748872195622465	3	0.494
+changing times	5.748872195622465	3	0.494
+change top	5.748872195622465	3	0.494
+cci	5.748872195622465	3	0.494
+balance governance	5.748872195622465	3	0.494
+addressed terms	5.748872195622465	3	0.494
+ways	5.0	5	0.823
+training	5.0	5	0.823
+terms	5.0	5	0.823
+strategies	5.0	5	0.823
+stakeholders	5.0	5	0.823
+risks	5.0	5	0.823
+risk	5.0	5	0.823
+result	5.0	5	0.823
+public	5.0	5	0.823
+provide	5.0	5	0.823
+preservation	5.0	5	0.823
+present	5.0	5	0.823
+post	5.0	5	0.823
+pathways	5.0	5	0.823
+particular	5.0	5	0.823
+needs	5.0	5	0.823
+nature	5.0	5	0.823
+natural heritage	5.0	5	0.823
+mitigation	5.0	5	0.823
+many	5.0	5	0.823
+manage	5.0	5	0.823
+integrated	5.0	5	0.823
+intangible	5.0	5	0.823
+indigenous	5.0	5	0.823
+heritage resource	5.0	5	0.823
+heritage europe	5.0	5	0.823
+help	5.0	5	0.823
+framework	5.0	5	0.823
+fostering	5.0	5	0.823
+forms	5.0	5	0.823
+eu	5.0	5	0.823
+etc	5.0	5	0.823
+equality	5.0	5	0.823
+education	5.0	5	0.823
+document	5.0	5	0.823
+developed	5.0	5	0.823
+demographic	5.0	5	0.823
+cultural natural	5.0	5	0.823
+conflicts	5.0	5	0.823
+common	5.0	5	0.823
+commission	5.0	5	0.823
+circular	5.0	5	0.823
+capacity	5.0	5	0.823
+build	5.0	5	0.823
+broader	5.0	5	0.823
+agenda	5.0	5	0.823
+addressed	5.0	5	0.823
+uncertainty	4.892574205256839	4	0.658
+transversal	4.892574205256839	4	0.658
+traditional knowledge	4.892574205256839	4	0.658
+times	4.892574205256839	4	0.658
+smart	4.892574205256839	4	0.658
+save	4.892574205256839	4	0.658
+role play	4.892574205256839	4	0.658
+relations	4.892574205256839	4	0.658
+related cultural	4.892574205256839	4	0.658
