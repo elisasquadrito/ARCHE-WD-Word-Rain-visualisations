@@ -63,12 +63,6 @@ Files:
 
 These files contain the lexical items and n-grams identified by the Word Rain `new words` function for each subcorpus. In the article, this function is used as an exploratory aid to identify items that appear only in specific parts of the aligned visualisation and may therefore point to emerging or under-represented themes.
 
-### Auxiliary LaTeX file
-
-* `outputs-ARCHE-WD-dotted4/ARCHE-WD-outputs-ARCHE-WD-dotted4.tex`
-
-This file is the auxiliary LaTeX source used to assemble Word Rain visualisation outputs into a presentation-style PDF. It is included only for transparency. The main file to inspect is `ARCHE-WD-WordRain-output.pdf`.
-
 ## Scope of the repository
 
 This repository includes Word Rain visual outputs and tool-generated output lists only. It does not include the raw ARCHE-WD corpus texts.
