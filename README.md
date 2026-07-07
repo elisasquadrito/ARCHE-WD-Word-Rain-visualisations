@@ -15,6 +15,41 @@ The documents analysed with Word Rain are:
 3. **ARCHE D2.5 SRIA Key Messages and Preliminary Findings** — 8,557 tokens
 4. **ARCHE SRIA Working Group Forms** — 7,468 tokens
 
+## Word Rain generation settings
+
+The Word Rain visualisations were generated using the Word Rain code developed by Skeppstedt et al. (2024), available at https://github.com/CDHUppsala/word-rain.
+
+The following settings were used for the ARCHE-WD visualisations:
+
+* **Embedding model:** `word2vec-google-news-300`
+* **Stopword filtering:** NLTK English stopword list combined with a custom stopword list
+* **Token pattern:** alphabetic tokens of at least two characters; numbers, including years, were excluded
+* **Lowercase normalisation:** enabled
+* **TF-IDF weighting:** enabled
+* **N-grams:** unigrams and bigrams, `n = 1–2`
+* **Minimum document frequency:** `1`
+* **Unified graph layout:** enabled
+* **Compact display mode:** enabled
+* **Maximum number of plotted words per visualisation:** `300`
+* **New-word marking:** enabled
+* **Automatic title generation:** enabled
+* **Page size:** `600 × 500`
+* **Base font size:** `25`
+* **Font-size falloff rate:** `0.7`
+* **Vertical guide lines:** `4`
+* **Vertical line style:** dotted
+
+The four subcorpora were processed together in a unified graph layout so that lexical items were projected within a shared semantic space and remained comparable across visualisations. The subcorpora were ordered as follows:
+
+1. Foresight Analysis
+2. Vision and Mission
+3. Key Messages and Preliminary Findings
+4. Working Group Forms
+
+The “new words” output depends on this ordering, since lexical items already appearing in an earlier visualisation are not marked as new in subsequent ones.
+The Word Rain scores, raw frequencies and relative frequencies included in the output files are those exported by Word Rain. They may differ from counts obtained with other corpus tools because of differences in tokenisation, preprocessing, lowercasing, n-gram handling and corpus-processing settings.
+
+
 ## Repository contents
 
 ### Main visualisation
