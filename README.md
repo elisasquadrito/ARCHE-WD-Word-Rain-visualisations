@@ -89,27 +89,29 @@ This repository includes Word Rain visual outputs and tool-generated output list
 
 ## Citation
 
-If you use or refer to these supplementary materials, please cite the archived Zenodo release of this repository once available.
+If you use or refer to these supplementary materials, please cite the archived Zenodo release of this repository and the associated paper.
 
-Associated publication:
-
-@article{SquadritoFrontiniVirgiliForthcomingARCHEWD,
+```bibtex
+@article{forthcoming,
   author = {Squadrito, Elisa and Frontini, Francesca and Virgili, Vania},
   title = {Distant and Close Reading Approaches to Specialised Language in the ARCHE Strategic Research and Innovation Agenda Corpus},
   journal = {Journal of Digital Terminology and Lexicography},
   year = {2026},
   note = {Forthcoming}
 }
+```
 
 Word Rain should be cited as:
 
-@article{SkeppstedtEtAl2024WordRain,
-  author = {Skeppstedt, Maria and Ahltorp, Magnus and Kucher, Kostiantyn and Lindstr{\"o}m, Matts},
-  title = {From word clouds to Word Rain: Revisiting the classic word cloud to visualize climate change texts},
-  journal = {Information Visualization},
-  volume = {23},
-  number = {3},
-  pages = {217--238},
-  year = {2024},
-  doi = {10.1177/14738716241236188}
-}
+
+```bibtex
+@article{doi:10.1177/14738716241236188,
+author = {Maria Skeppstedt and Magnus Ahltorp and Kostiantyn Kucher and Matts Lindström},
+title ={From word clouds to Word Rain: Revisiting the classic word cloud to visualize climate change texts},
+journal = {Information Visualization},
+volume = {23},
+number = {3},
+pages = {217-238},
+year = {2024},
+doi = {10.1177/14738716241236188}}
+```
