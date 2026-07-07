@@ -1,10 +1,12 @@
 # ARCHE-WD Word Rain supplementary materials
 
-This repository contains supplementary materials associated with the paper *Distant and Close Reading Approaches to Specialised Language in the ARCHE Strategic Research and Innovation Agenda Corpus*. The materials include Word Rain visualisations and related outputs generated for the analysis presented in the article.
+This repository contains supplementary materials associated with the forthcoming paper *Distant and Close Reading Approaches to Specialised Language in the ARCHE Strategic Research and Innovation Agenda Corpus* by Elisa Squadrito.
 
-The study applies Word Rain to the exploration of specialised language in Cultural Heritage policy discourse, combining distant-reading visualisation with close-reading analysis. The visualisations were produced from ARCHE-WD, a corpus of working documents developed within the Alliance for Research on Cultural Heritage in Europe (ARCHE) that led to the development of the Strategic Research and Innovation Agenda (SRIA) for the domain.
+The materials include Word Rain visualisations and related outputs generated for the corpus-based analysis presented in the article. Word Rain was developed by Skeppstedt et al. (2024) as a visualisation technique extending the classic word cloud approach. The code used as the basis for the present analysis is available from the official Word Rain GitHub repository: https://github.com/CDHUppsala/word-rain.
 
-The repository is intended to provide access to the full-size Word Rain outputs discussed in the article, allowing closer inspection than is possible within the constraints of the published figures. It also includes supporting files generated during the Word Rain workflow, such as newly appearing word lists and exported metrics. These materials are provided to increase transparency and support the reproducibility of the visualisation workflow, within the limits of the available corpus and software environment.
+The study applies Word Rain to the exploration of specialised language in Cultural Heritage policy discourse, combining distant-reading visualisation with close-reading analysis. The visualisations were produced from ARCHE-WD, a corpus of working documents developed within the Alliance for Research on Cultural Heritage in Europe (ARCHE) and contributing to the development of the Strategic Research and Innovation Agenda (SRIA) for the domain.
+
+The repository is intended to provide access to the full-size Word Rain outputs discussed in the article, allowing closer inspection than is possible within the constraints of the published figures. It also includes supporting files generated during the Word Rain workflow, such as newly appearing word lists, exported metrics, and, where relevant, the scripts and parameter notes used to generate or organise the outputs. These materials are provided to increase transparency and support the reproducibility of the visualisation-based part of the analysis.
 
 The documents analysed with Word Rain are:
 
@@ -84,3 +86,30 @@ These files contain the lexical items marked as newly appearing in each step of 
 ## Scope of the repository
 
 This repository includes Word Rain visual outputs and tool-generated output lists only. It does not include the raw ARCHE-WD corpus texts. The files are provided as supplementary material for inspection and transparency. They do not replace the close-reading analysis presented in the article.
+
+## Citation
+
+If you use or refer to these supplementary materials, please cite the archived Zenodo release of this repository once available.
+
+Associated publication:
+
+@article{SquadritoFrontiniVirgiliForthcomingARCHEWD,
+  author = {Squadrito, Elisa and Frontini, Francesca and Virgili, Vania},
+  title = {Distant and Close Reading Approaches to Specialised Language in the ARCHE Strategic Research and Innovation Agenda Corpus},
+  journal = {Journal of Digital Terminology and Lexicography},
+  year = {2026},
+  note = {Forthcoming}
+}
+
+Word Rain should be cited as:
+
+@article{SkeppstedtEtAl2024WordRain,
+  author = {Skeppstedt, Maria and Ahltorp, Magnus and Kucher, Kostiantyn and Lindstr{\"o}m, Matts},
+  title = {From word clouds to Word Rain: Revisiting the classic word cloud to visualize climate change texts},
+  journal = {Information Visualization},
+  volume = {23},
+  number = {3},
+  pages = {217--238},
+  year = {2024},
+  doi = {10.1177/14738716241236188}
+}
